@@ -15,11 +15,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Desktop preview
 
-(./design/qr-code%20desktop%20preview.png)
+![Desktop preview](./design/qr-code%20desktop%20preview.png)
 
 ## Mobile Preview
 
-(./design/qr-code%20mobile%20preview.png)
+![Mobile preview](./design/qr-code%20mobile%20preview.png)
 
 ### Links
 
