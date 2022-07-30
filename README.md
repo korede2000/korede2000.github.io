@@ -1,0 +1,1 @@
+# korede2000.github.io
